@@ -4,5 +4,4 @@ $ python -m playwright install chromium
 ########################
 BEWARE: your OS is not officially supported by Playwright; downloading fallback build for ubuntu20.04-x64.
 BEWARE: your OS is not officially supported by Playwright; downloading fallback build for ubuntu20.04-x64.
-@@@@@@@@@@@@@@@@@@@@@@@@
-Solution 1: This happens b/c I have the browser. So if you encounter this that means you have the browser and you can work on your project.
+> Solution 1: This happens b/c I have the browser. So if you encounter this that means you have the browser and you can work on your project.
